@@ -29,3 +29,5 @@ após o nome da classe BLOCK.
     <a href="#" class="card__link--highlight">Compre já</a>
 </section>
 ````
+
+*Referência:* [getbem.com](http://getbem.com/introduction/)
